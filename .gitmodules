@@ -4,3 +4,9 @@
 [submodule "TP7"]
 	path = TP7
 	url = https://github.com/RimAaloi/TP7
+[submodule "projet_java_tp5"]
+	path = projet_java_tp5
+	url = https://github.com/RimAaloi/projet_java-tp5.git
+[submodule "tp8"]
+	path = tp8
+	url = https://github.com/RimAaloi/tp8.git
