@@ -1,0 +1,6 @@
+[submodule "JAVA_TP6"]
+	path = JAVA_TP6
+	url = https://github.com/RimAaloi/JAVA_TP6
+[submodule "TP7"]
+	path = TP7
+	url = https://github.com/RimAaloi/TP7

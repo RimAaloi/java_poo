@@ -1,0 +1,35 @@
+/* Styles pour la fenêtre principale */
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #f4f4f4;
+}
+
+/* Menu bar */
+.menu-bar {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+/* Tabs */
+.tab-pane {
+    -fx-background-color: #ffffff;
+    -fx-tab-min-width: 120px;
+    -fx-tab-max-width: 150px;
+}
+
+.tab {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+/* Boutons des menus */
+.menu-item {
+    -fx-font-size: 14px;
+}
+
+/* TableViews dans les onglets */
+.table-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5;
+}
